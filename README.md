@@ -20,6 +20,8 @@ Four models were trained and compared. XGBoost (with tuned hyperparameters) came
 
 *RMSE is in minutes, so the final model is off by roughly 4 minutes on average.*
 
+deployment link :-
+https://food-delivery-time-prediction-v1-1.onrender.com/
 ---
 
 ## Approach
